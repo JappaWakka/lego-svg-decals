@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Texture" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2048 1410" style="enable-background:new 0 0 2048 1410;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F4F4F4;}
+	.st1{fill:#00852B;}
+	.st2{fill:#B40000;}
+	.st3{enable-background:new    ;}
+</style>
+<rect id="Background_Color" class="st0" width="2048" height="1410"/>
+<g id="Green_Buttons">
+	<circle class="st1" cx="697.5" cy="242.5" r="160"/>
+	<circle class="st1" cx="267.5" cy="242.5" r="160"/>
+</g>
+<g id="Black_Buttons">
+	<rect x="73.5" y="564.5" width="342" height="204"/>
+	<rect x="580.5" y="564.5" width="342" height="204"/>
+	<rect x="1098.5" y="564.5" width="342" height="204"/>
+	<rect x="1632.5" y="564.5" width="342" height="204"/>
+	<rect x="73.5" y="874.5" width="342" height="204"/>
+	<rect x="580.5" y="874.5" width="342" height="204"/>
+	<rect x="1098.5" y="874.5" width="342" height="204"/>
+	<rect x="1632.5" y="874.5" width="342" height="204"/>
+</g>
+<g id="Red_Buttons">
+	<rect x="73.5" y="1168" class="st2" width="849" height="194"/>
+	<rect x="1098.5" y="1168" class="st2" width="876" height="194"/>
+</g>
+<g id="Number_Display">
+	<path id="Display_Background" class="st2" d="M1008,48h934.5c17.7,0,32,14.3,32,32v348c0,17.7-14.3,32-32,32H1008
+		c-17.7,0-32-14.3-32-32V80C976,62.3,990.3,48,1008,48z"/>
+	<path id="One" d="M1085.8,247.8l-12.5,12.5l-37.5-37.5v-75l37.5-37.5l12.5,12.5V247.8z M1085.8,397.8l-12.5,12.5l-37.5-37.5v-75
+		l37.5-37.5l12.5,12.5V397.8z"/>
+	<path id="Five" d="M1121,122.8l12.5-12.5l37.5,37.5v75l-37.5,37.5l-12.5-12.5V122.8z M1283.5,85.2l12.5,12.5l-37.5,37.5h-75
+		L1146,97.8l12.5-12.5H1283.5z M1158.5,435.2l-12.5-12.5l37.5-37.5h75l37.5,37.5l-12.5,12.5H1158.5z M1158.5,260.2l25-25h75l25,25
+		l-25,25h-75L1158.5,260.2z M1321,397.8l-12.5,12.5l-37.5-37.5v-75l37.5-37.5l12.5,12.5V397.8z"/>
+	<path id="Decimal_Separator" d="M1416.8,435.2h-37.2V398h37.2V435.2z"/>
+	<g id="First_Zero" class="st3">
+		<path d="M1434.9,122.8l12.5-12.5l37.5,37.5v75l-37.5,37.5l-12.5-12.5V122.8z M1434.9,272.8l12.5-12.5l37.5,37.5v75l-37.5,37.5
+			l-12.5-12.5V272.8z M1597.4,85.2l12.5,12.5l-37.5,37.5h-75l-37.5-37.5l12.5-12.5H1597.4z M1472.4,435.2l-12.5-12.5l37.5-37.5h75
+			l37.5,37.5l-12.5,12.5H1472.4z M1634.9,247.8l-12.5,12.5l-37.5-37.5v-75l37.5-37.5l12.5,12.5V247.8z M1634.9,397.8l-12.5,12.5
+			l-37.5-37.5v-75l37.5-37.5l12.5,12.5V397.8z"/>
+	</g>
+	<g id="Second_Zero" class="st3">
+		<path d="M1706,122.8l12.5-12.5l37.5,37.5v75l-37.5,37.5l-12.5-12.5V122.8z M1706,272.8l12.5-12.5l37.5,37.5v75l-37.5,37.5
+			l-12.5-12.5V272.8z M1868.5,85.2l12.5,12.5l-37.5,37.5h-75L1731,97.8l12.5-12.5H1868.5z M1743.5,435.2l-12.5-12.5l37.5-37.5h75
+			l37.5,37.5l-12.5,12.5H1743.5z M1906,247.8l-12.5,12.5l-37.5-37.5v-75l37.5-37.5l12.5,12.5V247.8z M1906,397.8l-12.5,12.5
+			l-37.5-37.5v-75l37.5-37.5l12.5,12.5V397.8z"/>
+	</g>
+</g>
+</svg>
