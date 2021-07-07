@@ -9,11 +9,9 @@
 	.st1{fill:#1E5AA8;}
 	.st2{fill:#B40000;}
 </style>
-<g id="Background_Color" transform="translate(69.512194,-1441.9688)" inkscape:groupmode="layer" inkscape:label="Layer 1">
-	<path id="path3985" inkscape:connector-curvature="0" sodipodi:nodetypes="cscscc" class="st0" d="M107.6,1442
-		c-42.5,333.5-38,712.4,90.2,1042.7C413.5,3040.3,898.4,3490,954.5,3490s541-449.7,756.7-1005.3
-		c128.3-330.4,132.7-709.3,90.2-1042.7C1236.8,1442,672.2,1442,107.6,1442z"/>
-</g>
+<path id="Background_Color" inkscape:connector-curvature="0" sodipodi:nodetypes="cscscc" class="st0" d="M177.1,0
+	c-42.5,333.5-38,712.4,90.2,1042.7C483,1598.3,967.9,2048,1024,2048s541-449.7,756.7-1005.3C1909,712.3,1913.4,333.4,1870.9,0
+	C1306.3,0,741.7,0,177.1,0z"/>
 <g id="Blue_Triangles">
 	<path class="st1" d="M1022.6,957.9l-433.1,458.7c104.5,148.2,253.2,315,434.5,465.4c181.3-150.4,327.1-317.2,431.6-465.5
 		L1022.6,957.9z"/>
